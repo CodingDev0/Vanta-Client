@@ -1,0 +1,11 @@
+{
+  "name": "VantaClient",
+  "version": "2.0.0",
+  "cloud_build": "GitHub Actions",
+  "java": "17",
+  "gradle": "9.4.1",
+  "android_compile_sdk": 36,
+  "android_min_sdk": 26,
+  "apk_artifact": "Vanta-debug-apk",
+  "android_studio_required": false
+}

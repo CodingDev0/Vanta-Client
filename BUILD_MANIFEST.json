@@ -1,0 +1,19 @@
+{
+  "name": "Vanta Client",
+  "version": "2.0.0",
+  "applicationId": "com.vanta.client",
+  "features": [
+    "smart-profiles",
+    "pvp-hud",
+    "performance-monitor",
+    "pack-manager",
+    "theme-engine",
+    "hud-editor",
+    "fast-launch",
+    "safe-mode",
+    "json-profile-import-export",
+    "android-performance-mode-helper",
+    "bedrock-resource-pack-foundation"
+  ],
+  "sha256": "4833b6a5edb769e528c69514aea7c18468c68630c87f3667136a4bddffa47762"
+}
